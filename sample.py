@@ -3,4 +3,4 @@ print "Hello World"
 def printMessage(message):
     print message
     
-printMessage("Calling from function")
+printMessage("Calling from function 1")
